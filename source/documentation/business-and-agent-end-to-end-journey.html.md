@@ -309,6 +309,7 @@ If a customer wants to make any changes following crystallisation they have 12 m
 As with the current process the customer will make changes to the relevant information in software and resubmit the relevant periodic or annual updates, and follow the same process of triggering the calculation, they will not have to re-declare.
 
 Note: any changes made following crystallisation will be a formal amendment under section 9ZA TMA 1970 
+
 ## Business or Agent can receive penalties
 
 HMRCs existing penalties and notification methods will remain in place for customers. 
@@ -316,7 +317,6 @@ Further information can be found at:
 
 https://www.gov.uk/self-assessment-tax-returns/penalties
  
- 
 ## Appeals process
 
 HMRCs existing appeals process will remain in place. 
@@ -410,8 +410,6 @@ https://www.gov.uk/pay-self-assessment-tax-bill
 
 Customers will be able to view payments made to HMRC in software. 
 Details will be updated here once they are available.
-
- 
 
 ## Business or Agent receives a repayment
 
