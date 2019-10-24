@@ -31,7 +31,12 @@ Here is an [example JSON response](https://developer.service.hmrc.gov.uk/api-doc
 
 Here is an [example JSON Obligation](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/self-assessment-api/2.0#selfemployment-business_retrieve-end-of-period-statement-obligations-for-a-selfemployment-business_get_accordion) response.
 
-Note: at the moment in production the response only provides previous obligations and the next one it does not provide a full year but this will be available in the future.
+<div class="notice">
+<i class="icon icon-important"><span class="visually-hidden">Notice:</span></i>
+<p>
+<strong class="bold-small">At the moment in production the response only provides previous obligations and the next one it does not provide a full year but this will be available in the future.
+</strong></p>
+</div>
 
 ## Submit Periodic updates for SE and property businesses
 
