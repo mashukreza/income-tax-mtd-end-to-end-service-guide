@@ -17,7 +17,7 @@ It will allow customers to:
 
 * correct and understand entitlements and reliefs allowable
 * have predictable tax bills
-* a better cashflow
+* have a better cashflow
 
 ### High-level HMRC Assist customer journey
 
@@ -34,8 +34,8 @@ We are providing two endpoints:
 
 ### Produce a HMRC Assist Report
 
-The HMRC Assist report is based on the customer’s National Insurance number (nino) and Calculation ID.
-The report contains targeted feedback based on what the customer advises HMRC in their update for the given National Insurance number (nino) and Calculation ID.
+The HMRC Assist report is based on the customer’s National Insurance number (NINO) and Calculation ID.
+The report contains targeted feedback based on what the customer advises HMRC in their update for the given National Insurance number (NINO) and Calculation ID.
 
 
 <a href="figures/customer-journey-transactional-risking-produce-report.svg" target="blank"><img src="figures/customer-journey-transactional-risking-produce-report.svg" alt="Procuce report" style="width:720px;" /></a>
